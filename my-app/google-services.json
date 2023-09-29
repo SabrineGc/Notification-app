@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97317433053",
+    "project_id": "notification-13e22",
+    "storage_bucket": "notification-13e22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97317433053:android:29d6c15a059a497c8c7534",
+        "android_client_info": {
+          "package_name": "com.sabrinegc.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXnJH8C0hBfO4UB5Y0BSSggalD6lgeF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
